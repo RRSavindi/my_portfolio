@@ -18,7 +18,7 @@ const projects = [
     description: 'A lightweight calculator featuring a two-line display, keyboard support, and a minimalistic UI with dark/light mode.',
     image: calculatorImg,
     tags: ['javascript', 'python', 'CSS'],
-    github: 'https://github.com/RRSavindi/Project1_Calculator.git',
+    github: 'https://github.com/RRSavindi/Project1_myCalculator.git',
     demo: calVideo,
     
   },
@@ -26,8 +26,8 @@ const projects = [
     title: 'Portfolio Website',
     description: 'Modern portfolio website with smooth animations and responsive design.',
     image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800',
-    tags: ['React', 'Vite', 'CSS'],
-    github: '#',
+    tags: ['typeScript', 'Vite', 'CSS'],
+    github: 'https://github.com/RRSavindi/my_portfolio.git',
     demo: '#',
   },
 ];
