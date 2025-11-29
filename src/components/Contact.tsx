@@ -10,12 +10,13 @@ export function Contact() {
           </h2>
           <div className="w-24 h-1.5 bg-gradient-to-r from-blue-600 to-blue-400 mx-auto rounded-full" />
         </div>
-        <div className="grid md:grid-cols-2 gap-12">
+        <div>
           <div className="space-y-6">
             <p className="text-lg text-gray-600 dark:text-gray-300">
               I'm always interested in hearing about new projects and opportunities.
               Whether you have a question or just want to say hi, feel free to reach out!
             </p>
+            <div className="grid md:grid-cols-2 gap-12">
             <div className="space-y-4">
               <ContactInfo
                 icon={<Mail className="w-5 h-5" />}
@@ -66,6 +67,7 @@ export function Contact() {
                 }
               />
         
+            </div>
             </div>
           </div>
         </div>
