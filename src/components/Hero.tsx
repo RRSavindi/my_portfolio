@@ -40,7 +40,7 @@ export function Hero() {
             <div className="flex gap-4 pt-4">
               <SocialLink href="https://github.com/RRSavindi" icon={<Github className="w-5 h-5" />} />
               <SocialLink href="https://www.linkedin.com/in/raneesha-savindi-436044338" icon={<Linkedin className="w-5 h-5" />} />
-              <SocialLink href="raneeshasavindi53@gmail.com" icon={<Mail className="w-5 h-5" />} />
+              <SocialLink href="https://mail.google.com/mail/?view=cm&to=raneeshasavindi53@gmail.com" icon={<Mail className="w-5 h-5" />} />
             </div>
           </div>
           <div className="order-1 md:order-2 flex justify-center animate-fade-in mt-6 md:mt-12">
